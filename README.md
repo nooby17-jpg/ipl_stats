@@ -1,2 +1,2 @@
 # ipl_stats
-IPL Statistics and Analysis web-app in Python  made with streamlite and pandas
+IPL Statistics and Analysis dashboard in Python  made with streamlite and pandas
